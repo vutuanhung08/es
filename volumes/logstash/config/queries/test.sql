@@ -1,2 +1,1 @@
-SELECT * 
-FROM books.test
+SELECT * FROM books.imdb

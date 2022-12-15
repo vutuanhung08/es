@@ -1,2 +1,3 @@
 *.tsv
 *.gz
+volumes/elasticsearch/*
